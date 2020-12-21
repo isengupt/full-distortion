@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/full-distortion/static/css/main.0d3ba930.chunk.css",
+    "main.js": "/full-distortion/static/js/main.0957c587.chunk.js",
+    "main.js.map": "/full-distortion/static/js/main.0957c587.chunk.js.map",
+    "runtime-main.js": "/full-distortion/static/js/runtime-main.8fd0f29d.js",
+    "runtime-main.js.map": "/full-distortion/static/js/runtime-main.8fd0f29d.js.map",
+    "static/js/2.cd4f594e.chunk.js": "/full-distortion/static/js/2.cd4f594e.chunk.js",
+    "static/js/2.cd4f594e.chunk.js.map": "/full-distortion/static/js/2.cd4f594e.chunk.js.map",
+    "static/js/3.086b9bba.chunk.js": "/full-distortion/static/js/3.086b9bba.chunk.js",
+    "static/js/3.086b9bba.chunk.js.map": "/full-distortion/static/js/3.086b9bba.chunk.js.map",
+    "index.html": "/full-distortion/index.html",
+    "static/css/main.0d3ba930.chunk.css.map": "/full-distortion/static/css/main.0d3ba930.chunk.css.map",
+    "static/js/2.cd4f594e.chunk.js.LICENSE.txt": "/full-distortion/static/js/2.cd4f594e.chunk.js.LICENSE.txt",
+    "static/media/img1.88e9a5cc.jpg": "/full-distortion/static/media/img1.88e9a5cc.jpg",
+    "static/media/img2.90722986.jpg": "/full-distortion/static/media/img2.90722986.jpg",
+    "static/media/img3.53b2b0cd.jpg": "/full-distortion/static/media/img3.53b2b0cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd0f29d.js",
+    "static/js/2.cd4f594e.chunk.js",
+    "static/css/main.0d3ba930.chunk.css",
+    "static/js/main.0957c587.chunk.js"
+  ]
+}
